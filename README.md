@@ -32,7 +32,7 @@ The objective of this project is to develop a deep learning model capable of acc
 
 ## Dependencies
 
-- Python 3.x
+- Python 
 - PyTorch
 - torchvision
 - Matplotlib
