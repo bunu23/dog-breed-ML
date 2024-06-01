@@ -38,4 +38,4 @@ The objective of this project is to develop a deep learning model capable of acc
 
 ## Credits
 
-This project was developed by [Your Name]. It is based on the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) program by Udacity.
+It is based on the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) program by Udacity.
