@@ -1,5 +1,7 @@
 # Dog Breed Classification using Transfer Learning
 
+# Convolutional Neural Networks
+
 # Objective:
 
 The objective of this project is to develop a deep learning model capable of accurately classifying different dog breeds from images by leveraging transfer learning techniques to build a robust classifier with relatively little training data.
